@@ -43,7 +43,7 @@ Holzapfel
 
 .ERSTE SZENE
 
-### Intro Leonato und seine Crew
+# Intro Leonato und seine Crew
 
 Leonato, Gouverneur von Messina, Hero, seine Tochter und Beatrice, seine Nichte treten auf.
 
@@ -84,7 +84,7 @@ Ich freu mich schon auf die Fortsetzung dieses spaßhaften Kleinkriegs zwischen 
 HERO
 Hier kommt Don Pedro.
 
-### Auftritt Don Pedro und seine Crew
+# Auftritt Don Pedro und seine Crew
 
 Don Pedro, Claudio, Benedikt, Borachio und Don Juan, der Bastard, treten auf.
 
@@ -112,7 +112,7 @@ Das hat gesessen, Benedikt. Jetzt dürfen wir uns denken, wo du heute steckst al
 BENEDIKT
 Wenn Signor Leonato ihr verehrungswürdiger Vater ist, so wird sie um nichts in der Welt sein verehrungswürdiges Gesicht zwischen den Ohren haben wollen, so ähnlich sie ihm auch ist.
 
-### Erstes Duel Beatrice / Benedikt
+# Erstes Duel Beatrice / Benedikt
 
 Don Pedro und Leonato unterhalten sich leise.
 
@@ -149,7 +149,7 @@ Wenn doch mein Pferd so schnell wäre wie Ihre Zunge, und so ausdauernd. Aber ma
 BEATRICE
 Wenn's ernst wird, ziehen Sie den Schwanz ein und passen, das kenn ich schon von früher.
 
-### Don Juan ist böse.
+# Don Juan ist böse.
 
 Beatrice und Benedikt treten zur Seite.
 
@@ -188,7 +188,7 @@ Ein solcher Schwur, Herr, wär nicht falsch geschworen. Möchten Sie vorausgehen
 DON PEDRO
 Ihren Arm, Leonato, wir gehen zusammen.
 
-### Claudio: Love, Love, Love
+# Claudio: Love, Love, Love
 
 Alle ab außer Benedikt und Claudio.
 
@@ -326,7 +326,7 @@ Wie einfühlsam verstehen Sie die Liebe! Wie Sie den Kummer von der Nase lesen!
 DON PEDRO
 Heut abend gibt's hier einen Maskenball; verkleidet werd ich deine Rolle spielen, der schönen Hero sag ich, ich sei Claudio, ich schütt mein Herz an ihren Busen aus, ich nehm ihr Ohr gefangen durch den Sturm und starken Ausdruck meiner Liebeswerbung. Danach werd ich's dem Vater unterbreiten, die Folge, kurz und bündig: sie wird dein. Komm, lass uns alles in die Wege leiten.
 
-### Don Juan hat einen bösen Plan!
+# Don Juan hat einen bösen Plan!
 
 Beide ab. Don Juan und Borachio auf.
 
@@ -354,7 +354,7 @@ Beide ab.
 
 .ZWEITE SZENE
 
-### Intro Holzapfel
+# Intro Holzapfel
 
 Holzapfel und „Wachen“ (Stofftiere, Actionfiguren an einer Leine) treten auf.
 
@@ -371,7 +371,7 @@ Nur noch eins, Leute. Gebt auf Signor Leonatos Haus acht, da wird's heut auf die
 
 Holzapfel und „Wachen“ ab.
 
-### Maskenball, viel Liebe
+# Maskenball, viel Liebe
 
 Leonato, seine Tochter Hero und seine Nichte Beatrice treten auf.
 
@@ -574,7 +574,7 @@ Don Pedro, Claudio, Leonato und Hero ab.
 Benedikt und Beatrice sehen auf. Sehen einander an. Sehen weg.
 Alle ab.
 
-### Balkonszene
+# Balkonszene
 
 Don Pedro und Claudio treten auf.
 Don Juan tritt auf.
@@ -692,7 +692,7 @@ Ich sah heute nacht alles, was gegen die Heirat spricht. Ich werde sie vor der T
 DON PEDRO
 Und weil ich dir geholfen habe, sie zu erobern, werde ich dir genauso helfen, sie anzuprangern.
 
-### Die Hochzeit, Krawehl! Juan flieht.
+# Die Hochzeit, Krawehl! Juan flieht.
 
 Don Pedro, Don Juan, der Bastard, Leonato, Claudio, Benedikt, Hero und Beatrice.
 
@@ -815,12 +815,472 @@ Kommt, gehn wir. Das, was hier ans Licht kam, raubt ihr alle Lebenskraft.
 
 Don Pedro, Don Juan und Claudio gehen ab.
 
+LEONATO
+Schicksal, zieh nicht die schwere Hand zurück. Nichts Bessres kann man ihrer Schande wünschen als jetzt den Tod. Wirft nicht jede Kreatur nach ihr mit Steinen? Leugnet sie vielleicht die Schuld, die ihr aus allen Poren sieht? Leb lieber nicht, Hero, schließ deine Augen. - Wollt ich mehr Kinder? Hab ich geklagt, weil ich nur eines hatte? Oh, du bist eins zuviel! - Warum hab ich mich je an dir gefreut?
 
+BENEDIKT
+Langsam, Herr! Ich für mein Teil bin derartig erstaunt, dass mir die Worte fehlen.
 
+BEATRICE
+Auf meinen Eid, man hat Hero verleumdet.
 
+BENEDIKT
+Schliefen Sie letzte Nacht in ihrem Zimmer?
+
+BEATRICE
+Nein, diesmal nicht, doch bis zur letzten Nacht schlief ich ein Jahr lang neben ihr im Bett.
+
+LEONATO
+Beweis! Beweis! Oh, das bestätigt nur, Was man schon hieb- und stichfest vorgebracht! Würden zwei Prinzen, würde Claudio lügen, der sie so liebte, dass ihm Tränen kamen, als er verklagen musste? - Lasst sie sterben.
+
+BENEDIKT
+In ihren Augen sah ich so ein Feuer - darin verbrannte dieser Prinzen Irrtum von Treuelosigkeit. Nennt mich verrückt, traut meinem Blick nicht, der prüft, eh er das Bücherwissen siegelt, wenn dieses Fräulein hier nicht schuldlos fiel durch einen schlimmen Irrtum.
+
+LEONATO
+Das kann nicht sein. Sie sehn, das einzig Gute an ihr ist, dass sie die Schuld des Meineids der Verdammung nicht auch hinzufügt. Leugnen tut sie nichts. Warum wolln Sie mit Ausreden verdecken, was nackt und unverhüllt zutage hegt?
+
+BENEDIKT
+Irgendein Irrtum muss die Prinzen täuschen.
+Von den drei Herrn sind zwei die Ehre selbst - Das heißt, man hat sie hinters Licht geführt. Dann treibt Juan, der Bastard, falsches Spiel, denn der gefällt sich sehr in Schweinereien.
+
+LEONATO
+Ich weiß nicht. Ist es wahr, dann bring ich sie mit eigenen Händen um. Tun sie ihr unrecht, dann werden diese Herrn mich kennenlernen.
+
+BENEDIKT
+Nicht so schnell. Die Prinzen glauben Ihre Tochter tot. Geben Sie bekannt, sie sei gestorben. Den Schein des Trauerfalles wahren Sie mit allen Raten und Zeremonien, wie ein Begräbnis es nun mal verlangt.
+
+LEONATO
+Und wohin führt das alles? Was dann weiter?
+
+BENEDIKT
+Wird es gut ausgeführt, verwandelt sich Verleumdung bald in Reue. Sie starb, so muss man verbreiten, im Augenblick, als Claudio sie verklagte. Wer so was hört, beweint, bedauert und entschuldigt sie. So ist das Leben eben: was man besitzt, missachtet man im Wert, solange man's genießt; verlieren wir's, dann überschätzen wir den Wert, erkennen erst dann die Qualität, die ihr Besitz uns nie begreifen ließ. So geht's auch Claudio; hört er, dass sie an seinen Worten starb, dann setzt ein Traumbild ihres Lebens das Mühlrad seiner Grübelei in Gang, und dann wird jede ihrer Eigenschaften von einer neuen Aura eingehüllt, und zarter, rührender und lebensvoller entsteht sie vor den Augen seiner Seele, als sie im Leben war. Dann trauert er und wünscht, er hätte sie nicht angeklagt. So kann es gehn, und das Ergebnis wird ganz ohne Zweifel noch viel besser sein, als ich hier eben grob umreißen konnte.
+Wenn alles schiefgeht, können Sie sie immer noch in ein abgeschiednes Kloster stecken.
+Sie wissen, dass ich Claudio und dem Prinzen verbunden bin in Zuneigung und Treue, doch werde ich auf Ehrenwort hierbei stumm und verschwiegen sein und Ihnen treu wie Sie sich selbst.
+
+LEONATO
+Eh ich im Leid ertrinke, da halt ich mich an diesem Strohhalm fest.
+
+BENEDIKT
+Es ist das Beste so. Doch jetzt ans Werk. Neu ist die Krankheit, neu die Medizin. Sie, Fräulein, sterben in das Leben. - Ihr Hochzeitsfest ist nur verschoben worden.
+
+Alle ab.
 
 
 .DRITTE SZENE
 
-Tanz. Alle ab.
-[[Slugline Settings BPC01]]
+# Beatrice fordert von Benedikt Rache
+
+Benedikt und Beatrice treten auf.
+
+BENEDIKT
+Fräulein Beatrice, haben Sie die ganze Zeit geweint?
+
+BEATRICE
+Ja, und ich werde noch eine ganze Zeitlang weiterweinen.
+
+BENEDIKT
+Ich glaube, man tut Hero unrecht.
+
+BEATRICE
+Oh, was könnte der Mann von mir verlangen, der Hero zu ihrem Recht verhilft!
+
+BEENDIGT
+Gibt's irgendeinen Weg, Ihnen diesen Freundschaftsdienst zu erweisen?
+
+BEATRICE
+Einen schnurgeraden Weg, aber keinen solchen Freund.
+
+BENEDIKT
+Soll's denn ein Mann sein?
+
+BEATRICE
+Es ist Männerarbeit, aber nicht Ihre.
+
+BENEDIKT
+Und doch gefällt mir nichts auf der Welt so gut wie Sie - ist das befremdlich?
+
+BEATRICE
+So befremdlich, wie es mir fremd ist. Ich könnte genausogut sagen, dass auch mir nichts auf der Welt so gut gefällt wie Sie. Ihr Pech, wenn Sie mir ein Wort glauben, übrigens ich lüge nie.
+
+BENEDIKT
+Beatrice, du liebst mich! Ich schwöre, dass du, Sie mich lieben!
+
+BEATRICE
+Verschlucken Sie sich nicht beim Schwören.
+
+BENEDIKT
+Ich verschwör mich beim Schlucken, weil Sie mich lieben, und wenn einer sagt, dass ich Sie nicht liebe, den schluck ich, das schwör ich.
+
+BEATRICE
+Wollen Sie das nicht lieber wieder schlucken, was Sie da ausgespuckt haben?
+
+BENEDIKT
+Nicht mit goldenen Löffeln würde ich's schlucken. Ich schwöre, ich liebe dich!
+
+BEATRICE
+O Gott, sei meiner armen Seele gnädig!
+
+BENEDIKT
+Hast du gesündigt?
+
+BEATRICE
+Sie haben mich in einer schwachen Stunde erwischt, auch ich wollte Ihnen gestehen, dass ich dich liebe.
+
+BENEDIKT
+O ja, o ja, o ja, tun Sie das!
+
+BEATRICE
+Ich liebe dich so stark, dass ich zu schwach bin, es Ihnen zu sagen.
+
+BENEDIKT
+O sag mir, was ich für dich tun soll.
+
+BEATRICE
+Töte Claudio.
+
+BENEDIKT
+Was? Nie im Leben!
+
+BEATRICE
+Sie töten mich mit Ihrer Weigerung. Leben Sie wohl.
+
+BENEDIKT
+Aber so warten Sie doch.
+
+BEATRICE
+Ich bin noch hier, aber ich bin schon weg. Sie wissen nicht, was Liebe heißt.
+
+BENEDIKT
+Beatrice -
+
+BEATRICE
+Also, ich gehe jetzt.
+
+BENEDIKT
+Erst wieder Freunde sein.
+
+BEATRICE
+Auf meine Freundschaft sind Sie wilder als auf die Degen meiner Feinde.
+
+BENEDIKT
+Ist Claudio Ihr Feind?
+
+BEATRICE
+Hat er sich nicht eindeutig als Schwein ausgewiesen? Hat er nicht meine Kusine verleumdet, verspottet und entehrt? O wenn ich Mann wäre! O ja, erst auf Händen tragen bis zum Händereichen und dann öffentliche Beschuldigung, heimtückische Beleidigung, schamlose Beschimpfung - O Gott, ich will ein Mann sein! Ich würde ihn öffentlich in Scheiben schneiden.
+
+BENEDIKT
+So hör doch, Beatrice -
+
+BEATRICE
+Mit einem Mann nachts am Fenster gesprochen! Eine himmelschreiende Lüge!
+
+BENEDIKT
+Ja, aber nein, Beatrice -
+
+BEATRICE
+O Hero! Rufmord! Verleumdung! Sie ist ruiniert!
+
+BENEDIKT
+Beatr -
+
+BEATRICE
+Prinzen und Grafen! Natürlich, ein prinzlicher Zeuge, ein gräflicher Graf, ein verprinzeltes Gräflein, ein Schnurzipurzelchen, dieser Liebhaber da! Hätte ich einen Freund, der um meinetwillen Mann wäre! Männer sind Waschlappen, man kann sie auswringen, bis das Schmalz tropft, nur im Anpöbeln und Süßholzraspeln sind sie stark. Wer kräftig flucht und angibt, kann sich die Heldentaten sparen. Ich kann nicht als Mann der Tat leben, also sterbe ich als Frau unter Tränen.
+
+BENEDIKT
+So hör doch, Beatrice, ich hebe die Hand zum Schwur: ich liebe dich!
+
+BEATRICE
+Sie sollten mir zuliebe die Hand zu was anderem als zum Schwören heben.
+
+BENEDIKT
+Sind Sie zutiefst überzeugt, dass Graf Claudio Hero unrecht getan hat?
+
+BEATRICE
+Bis auf den Grund meiner Seele.
+
+BENEDIKT
+Genug, zählen Sie auf mich. Bei dieser Hand, Claudio soll mir Rechenschaft geben. Gehn Sie und trösten Sie Hero. Leben Sie wohl.
+
+Beide ab.
+
+# Claudio erfährt von Juan
+
+Holzapfel tritt auf, bringt seine „Wachen“ in Stellung.
+Zerrt Borachio auf die Bühne.
+
+HOLZAPFEL
+Sind alle Verschworenen angesammelt?
+Wo ist der Schreiber?
+
+
+Don Pedro und Claudio treten auf.
+
+DON PEDRO
+Meines Bruders Schoßtier in Fesseln?
+
+CLAUDIO
+Fragen Sie doch, was sie angestellt habt, gnädiger Herr.
+
+DON PEDRO
+Wache, was hat diese Frau verbrochen?
+
+HOLZAPFEL
+Herr, sie hat einen falschen Rapport begangen, zweitens hat sie die Unwahrheit veräußert, ferner ist sie Debutantin, die sechstens und letztens ein Fräulein verunziert hat, drittens hat sie unrichtige Dinge verifiziert, und schließlich ist sie ein verlogener Komplex.
+
+DON PEDRO
+Erstens, ich frage, was sie getan hat, drittens, ich frage, was ihr Vergehen ist, sechstens und letztens, warum ist sie verhaftet, und zu guter Letzt, wie lautet die Anklage.
+Leute, was hast du angestellt, dass man dich zum Verhör schleppt? Dieser gebildete Beamte ist zu scharfsinnig, als dass man ihn verstehen könnte.
+
+BORACHIO
+Gnädigster Herr, lassen Sie mich nicht erst vor Gericht stellen, hören Sie mich an, und dann soll Graf Claudio mich umbringen. Ich habe sogar Ihnen selbst ein X für ein U vorgemacht. Von Reue schwer geplant hab ich diesem Mann gestanden, dass Ihr Bruder Don Juan mich angestiftet hat, Fräulein Hero zu verleumden, und dass er Sie in den Garten geführt hat, um zuzusehen, wie er mir, während ich Heros Kleider trug, den Hof machte, und wie Sie Hero verstoßen haben vor allen Hochzeitsgästen. Das Fräulein ist an meinen und meines Herrn falschen Anklagen gestorben, ich will nur noch den passenden Lohn für diese Schweinerei, und dann Punktum.
+
+DON PEDRO
+Mir ist eiskalt geworden, als sie sprach.
+
+CLAUDIO
+Ich habe jedes Wort wie Gift geschluckt.
+
+DON PEDRO
+Und dazu hat mein Bruder dich verleitet?
+
+BORACHIO
+Ja.
+
+DON PEDRO
+Der ganze Mann besteht nur aus Gemeinheit. Gleich nach der Wahnsinnstat ist er geflohn.
+
+CLAUDIO
+Jetzt erst erscheint mir wieder Heros Bild Genauso schön wie in der ersten Liebe.
+
+DON PEDRO
+Ich geh zu Leonato und erzähl ihm die ganze Sache.
+
+HOLZAPFEL
+Ich bin Ihr allersenilster Diener, gnädiger Herr, ich werde Gott für Sie loben.
+
+DON PEDRO
+Das ist für deine Mühe.
+
+HOLZAPFEL
+Ich danke für die Kollekte.
+
+DON PEDRO
+Geh endlich, ich nehme dir die Gefangene ab, ich danke dir.
+
+HOLZAPFEL
+Gnädiger Herr, ich überlasse Sie diesem Verbrecher. Gott behüte Sie. Ich wünsche Ihnen alles Gute und gute Verbesserung. Ich bin so frei, Sie zu verabschieden, und wenn es ein Wiedersehen gibt, möge Gott uns davor behüten. Kommt, Leute.
+
+Holzapfel ab. Don Pedro und Borachio ab.
+
+# Leonato fordert Claudio
+
+LEONATO
+Hörn Sie, ein Wort!
+Du tust mir unrecht, Heuchler, du! - Lass bloß die Hand von deinem Degen fort, Ich fürcht mich nicht.
+
+CLAUDIO
+Dass mir die Hand abfällt, Wenn sie sich gegen alte Männer hebt! Die Hand am Schwert hat gar nichts zu bedeuten.
+
+LEONATO
+Rotzlümmel, mach dich ja nicht lustig hier! Du hast mein Kind und mich so tief verletzt, dass ich Rücksicht und Stand vergessen muss. Ich forder dich zum Zweikampf auf. Ich sage, du betrogst mein armes Kind. Deine Verleumdung hat sie umgebracht, Sie liegt begraben neben ihren Ahnen - Oh, in einer Gruft, wo nie die Schande schlief, Nur ihre jetzt, die dein Verbrechen ist!
+
+CLAUDIO
+Was, mein Verbrechen? Hören Sie —
+
+LEONATO
+Deines, Claudio, deins.
+Wagst du's beweis ich's dir am eignen Leib, trotz deiner Fechtkunst, trotz seiner Kraft, Geschicklichkeit und Übung.
+
+CLAUDIO
+So hören Sie doch!
+
+LEONATO
+Ach, du bist feig? Du hast mein Kind getötet, töt mich, du Laffe!
+
+# Benedikt fordert Claudio
+
+Benedikt tritt auf.
+
+CLAUDIO
+Benedikt, dem Himmel sei Dank! Hilf mir, diese Lage zu entschärfen.
+
+BENEDIKT
+Guten Tag, gnädiger Herr.
+
+CLAUDIO
+Du kannst hier gleich ein Duell erleben, wenn du kein Wunder wirkst.
+
+BENEDIKT
+In falschem Streit liegt wenig wahre Ehre. Ich habe euch gesucht.
+
+CLAUDIO
+Würdest du deine Witze auspacken? Etwas Lachen täte hier gut.
+
+BENEDIKT
+Der Witz steckt hier in der Scheide, soll ich ziehen?
+
+CLAUDIO
+Das einzig Witzige an diesem Witzbold ist sein Ernst.
+
+BENEDIKT
+Verehrter Herr, ich werde Sie gelegentlich auf dumme Witze fordern, Sie haben den ersten Kalauer. Reden wir jetzt von was anderem.
+Kann ich mit dir von Mann zu Mann sprechen?
+
+CLAUDIO
+Gott im Himmel, die zweite Forderung heute!
+
+BENEDIKT
+Herr Graf, Sie sind ein Schwein, ich mache keine Witze. Ich bin zu jeder Genugtuung bereit. Du hast ein Fräulein in den Tod getrieben, ich bin der Zorn Gottes. Wie ist deine Antwort?
+
+LEONATO
+Halt, ich zuerst!
+
+# Alles wird aufgelöst, so irgendwie
+
+Don Pedro tritt mit Borachio auf.
+
+DON PEDRO
+Halt!
+Bevor der Graf in tausend Stücke geschnitten wird, sollt ihr die Wahrheit erfahren. Was wir in der Nacht sahen, war, so muss ich zu meiner Schande gestehen, eine Intrige meines verdorbnen Bruders. 
+
+CLAUDIO
+Das hätt' ich Ihnen auch sagen können, wären Sie zu hören gewillt gewesen.
+
+DON PEDRO
+Sie hier kann's bezeugen!
+Beide führten sie uns hinters Licht und zogen Heros Namen in den Dreck.
+Was sagst du dazu?
+
+BORACHIO
+Ich gestehe es wieder und wieder: so war's.
+
+LEONATO
+Du also hast mein unschuldiges Kind mit deiner Tat gemordet?
+
+BORACHIO
+Ich allein.
+
+LEONATO
+Ach was, nein, du belügst dich selbst! Hier steht ein Paar hochehrenwerter Männer, ein dritter floh - die mischten alle mit.
+
+CLAUDIO
+Ich weiß nicht, wie Sie um Verzeihung bitten, doch reden muss ich. Nennen Sie die Rache, erfinden Sie die allerschwerste Buße, ich trage sie. Doch meine Sünde lag allein im Missverständnis.
+
+DON PEDRO
+Meine auch. Doch um ihnen genugzutun, beug ich mich jedem noch so schweren Joch.
+
+LEONATO
+Ich kann nicht bitten: »Bittet sie zu leben«. Meines selgen Bruders Tochter, die eher lichtscheu ist und eigentlich nicht der Rede wert, aus diesem Grunde saht ihr sie bisher auch nicht, ist fast das Abbild meiner toten Hero, und sie allein beerbt uns einmal beide. Geben Sie ihr, was mein Kind haben sollte, und dann stirbt meine Rache.
+
+CLAUDIO
+Edler Mensch! Die übergroße Güte macht mich weinen. Ihr Angebot nehm ich gern an, ab jetzt verfügen Sie nur immer über mich.
+
+LEONATO
+Ich lass sie umgehend kommen.
+
+# Zweite Hochzeit
+
+Die maskierten Damen Hero und Beatrice treten auf.
+
+CLAUDIO
+An welche Dame muss ich mich jetzt haken?
+
+LEONATO
+Hier diese da, und Ihnen geb ich sie.
+
+CLAUDIO
+Dann ist sie mein. Zeigen Sie Ihr Gesicht, mein Schatz.
+
+CLAUDIO
+Gib mir die Hand. Ich bin dein Ehemann, wenn du mich willst.
+
+HERO
+Ich war dein erstes Weib, als ich noch lebte, Du warst mein erster Gatte, als du liebtest.
+
+CLAUDIO
+Noch eine Hero!
+
+HERO
+Nichts ist gewisser. Entehrt starb eine Hero, doch ich lebe, und ich bin ohne Schuld, so wahr ich lebe.
+
+DON PEDRO
+Dieselbe Hero! Hero, die schon starb!
+
+LEONATO
+Tot war sie nur, solang Verleumdung lebte. Sobald der heilge Bund geschlossen ist, erzähl ich lang und breit von ihrem Tod. Solange nehmt das Wunder ganz alltäglich und lasst uns alle in die Kirche gehn.
+
+BENEDIKT
+Langsam! - Wer ist hier Beatrice?
+
+BEATRICE
+Sie hat mich hergeschickt. Was wollen Sie?
+
+BENEDIKT
+Du liebst mich doch?
+
+BEATRICE
+Ich? Nein, nicht übermäßig.
+
+BENEDIKT
+Dann täuschen sich der Prinz und Claudio sehr, man schwur, dass du mich liebst.
+
+BEATRICE
+Liebst du denn mich?
+
+BENEDIKT
+Ich? Nein, nicht übermäßig.
+
+BEATRICE
+Dann täuschen sich Hero und mein Onkel sehr, man schwur, dass du mich liebst.
+
+BENEDIKT
+Die schworen mir, du wärst fast krank um mich.
+
+BEATRICE
+Sie schworen mir, du wärst halb tot um mich.
+
+BENEDIKT
+O weit gefehlt. Du liebst mich also nicht?
+
+BEATRICE
+Bewahre! Nur bei Gegenseitigkeit.
+
+LEONATO
+Los, Nichte. Komm, glaub mir, du liebst den Herrn.
+
+BENEDIKT
+Also komm, ich nehme dich, aber weiß Gott nur aus Mideid.
+
+BEATRICE
+Ich bring's nicht über mich, dich zu enttäuschen, aber ich habe mich nur überreden lassen, und außerdem will ich dein Leben retten, man hat mir gesagt, du hättest die Schwindsucht.
+
+BENEDIKT
+Friede, oder ich stopfe dir den Mund.
+
+DON PEDRO
+Wie geht's denn immer so, Benedikt, du Geehelichter.
+
+BENEDIKT
+Ich will Ihnen was sagen, Prinz: ein ganzes Kollegium von Witzbolden kann mich nicht mehr aus der Fassung bringen. Nein: Wer sich dumme Sprüche anzieht, wird bald blöde aus der Wäsche schauen. Ich habe mir die Ehe nun mal in den Kopf gesetzt, und wer sich das Maul zerreißt, kann mir den Buckel runterrutschen. Da braucht mir erst gar niemand mein dummes Gewäsch von vorgestern unter die Nase zu reiben. Der Mensch ist eine Wetterfahne und damit basta. Was dich betrifft, Claudio, mit dir wollte ich mich schlagen, aber weil es so aussieht, als ob wir Verwandte würden, pflege deine Haut und liebe meine Kusine.
+
+CLAUDIO
+Ich hatte so gehofft, dass du Beatrice abblitzen lässt, dann hätte ich dich nämlich vom Männer-Einzel ins gemischte Doppel geprügelt, und wenn du bei diesem Doppelspiel doppeltes Spiel treibst, wird's dir meine Kusine schon austreiben.
+
+BENEDIKT
+Ach was, wir sind Freunde. Wir wollen vor der Hochzeit noch mal tanzen, damit uns die Herzen leichter werden und den Frauen die Füße.
+
+LEONATO
+Getanzt wird später.
+
+BENEDIKT
+Nein, jetzt wird getanzt! Musiker, anfangen! Prinz, Sie schauen so ernst? Heiraten Sie, heiraten Sie! Eine Prinzenkrone wird erst schön, wenn sie mit Horn besetzt ist.
+
+# Holzapfel stellt Juan
+
+Holzapfel tritt auf, Don Juan über die Schulter geworfen.
+
+HOLZAPFEL
+Gnädige Herrschaften, meine Leute und ich haben soeben diese sehr maliziöse Personalie aufgegriffen. Sie können ihn nach Belieben bezüglichst der Strafausmessung examinieren.
+Bis dahin gute Nacht, und frohe Ehelichung weiterhin.
+
+Tanz. Alle ab.[[Slugline Settings BPC01]]
